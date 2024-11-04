@@ -6,7 +6,7 @@ Just a curious guy with a keen interest in technology who's always trying figure
 
 ## Objective
 
-My studies in computer engineering and personal experiences with computers helped develop my love for working on computers and other technology, and combining this love for them with my love for helping others, I am eager to transition into the IT field, aiming to start my career as Desktop Support/Help Desk. This portfolio was also created in mind with developing my documentation abilities.
+My studies in computer engineering and personal experiences with computers helped develop my love for working on computers and other technology, and combining this love for them with my love for helping others, I am eager to transition into the IT field, aiming to start my career as an IT Technician/Desktop Support. This portfolio was also created in mind with developing my documentation abilities.
 
 ## IT Projects
 
