@@ -10,15 +10,16 @@ My studies in computer engineering and personal experiences with computers helpe
 
 ## IT Projects
 
-- <a href="https://github.com/koliman/Active-Directory-Lab/tree/main">Active Directory Lab</a>
+- <a href="https://github.com/koliman/Active-Directory-Lab">Active Directory Lab</a>
+- <a href="https://github.com/koliman/GPO-Lab">GPO Lab</a>
 
 ## Skills
 
 | Skill                                                  | Associated Project          |
 |--------------------------------------------------------|-----------------------------|
-| Windows Server 2022                                    | <a href="https://github.com/koliman/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Active Directory Domain Services                       | <a href="https://github.com/koliman/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-<!--| Group Policy Objects & Group Policy Management Console | Project Repo here           |-->
+| Windows Server 2022                                    | <a href="https://github.com/koliman/Active-Directory-Lab">Active Directory Lab</a>|
+| Active Directory Domain Services                       | <a href="https://github.com/koliman/Active-Directory-Lab">Active Directory Lab</a>|
+| Group Policy Objects & Group Policy Management Console | <a href="https://github.com/koliman/GPO-Lab">GPO Lab</a> |
 
 ## Tools
 <div>
